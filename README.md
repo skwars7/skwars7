@@ -10,9 +10,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -->
-- 🔭 I’m currently working on some restructuring code
-- 🌱 I’m currently learning pdf generation
-- 👯 I’m looking to collaborate on python/django/flask
+- 🔭 I’m currently working on reports generation and framer transition animation.
+- 👯 I’m looking to collaborate any intresting open-source project. 
 - 📫 How to reach me: skwars7@gmail.com
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=skwars7&show_icons=true)
