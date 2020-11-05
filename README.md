@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -->
-- 🔭 I have an good exposure on serverless architecture.
+- 🔭 I have an good exposure on serverless architecture and i can do little bit python.
 - 👯 I’m will like to collaborate any intresting project. 
 - 📫 How to reach me: skwars7@gmail.com
 
