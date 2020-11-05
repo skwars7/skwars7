@@ -10,8 +10,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -->
-- 🔭 I’m currently working on reports generation and framer transition animation.
-- 👯 I’m looking to collaborate any intresting open-source project. 
+- 🔭 I have an good exposure on serverless architecture.
+- 👯 I’m will like to collaborate any intresting project. 
 - 📫 How to reach me: skwars7@gmail.com
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=skwars7&show_icons=true)
