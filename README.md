@@ -10,8 +10,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -->
-- 🔭 I have an good exposure on serverless architecture and i can do little bit python.
-- 👯 I will like to collaborate any intresting project. 
+- 🔭 I have an good exposure on Custom frameworks and i can do little bit python.
+- 👯 I would love to collaborate for any intresting project. 
 - 📫 How to reach me: skwars7@gmail.com
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=skwars7&show_icons=true)
